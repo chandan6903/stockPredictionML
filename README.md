@@ -1,7 +1,7 @@
 # stockPredictionML
 An LSTM model to predict the stock price.
 
-Model Prediction:
+## Model Prediction:
 ![plot](./sp1.png)
 ![plot](./sp2.png)
 ![plot](./sp3.png)
